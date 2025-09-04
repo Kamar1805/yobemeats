@@ -38,8 +38,8 @@ export const boardMembers = [
     },
     {
       name: "Mohammed Babazau",
-      title: "Non-Executive Director, Nigerian Food Corporation",
-      subtitle: "",
+      title: "Non-Executive Director, ",
+      subtitle: "Nigerian Food Corporation",
       image: "https://horizons-cdn.hostinger.com/f2126a34-b61c-429a-92e5-573283323be1/e5e461cfee59151f210eec7d9cb19a6b.png"
     },
     
