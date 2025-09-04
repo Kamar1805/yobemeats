@@ -13,7 +13,7 @@ const Footer = ({ scrollToSection }) => {
               className="h-20 w-auto mb-4 rounded-lg shadow"
             />
             <p className="footer-desc">
-              Nigerian Food Company delivers premium, traceable meat products from Damaturu, Yobe State. We are committed to quality, safety, and supporting sustainable food systems across Nigeria.
+              Nigerian Food Company delivers premium, traceable meat products from Damaturu, Yobe State. We are committed to quality, safety, and supporting sustainable food systems across Nigeria and Africa.
             </p>
           </div>
 
